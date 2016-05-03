@@ -1,0 +1,22 @@
+#                                                                                                            #
+# Enter all the references below (stackoverflow, or any other links) that you used to complete this project  #
+#                                               (One per line)                                               #
+#1.  http://stackoverflow.com/questions/14274259/java-read-csv-with-scanner ( This reference was used to read file using scanner)
+#2.  http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html ( To understand how regular expression is written in java)
+#3.  http://stackoverflow.com/questions/13185727/reading-a-txt-file-using-scanner-class-in-java (To understand Read file using scanner)
+#4.  https://en.wikibooks.org/wiki/An_Awk_Primer/Awk_Command-Line_Examples ( For bash commands)
+#5.  https://www.gnu.org/software/gawk/manual/html_node/Regexp-Usage.html( For bash commands)
+#6.  http://stackoverflow.com/questions/11106588/use-awk-to-extract-row-records-contain-specific-word(For bash commands)
+#7.  http://www.math.utah.edu/docs/info/gawk_5.html(For bash commands)
+#8.  http://stackoverflow.com/questions/13046167/printing-the-last-column-of-a-line-in-a-file(For bash commands)
+#9.  http://stackoverflow.com/questions/3096259/bash-command-to-sum-a-column-of-numbers(for bash commands)
+#10. http://stackoverflow.com/questions/19959746/extracting-columns-space-or-tab-delimited-from-text-file-in-linux(for bash commands)
+#11. http://linuxcommand.org/lts0060.php(for bash commands)
+#12. http://stackoverflow.com/questions/1037365/unix-sort-with-tab-delimiter(for bash commands)
+#13. http://www.btaz.com/unixlinux/unixlinux-sort-multiple-columns-tab-delimited-and-reverse-sort-order/(for bash commands)
+#14. http://unix.stackexchange.com/questions/96031/sum-the-values-in-a-column-except-the-header(for bash commands)
+#15. http://stackoverflow.com/questions/6312564/how-can-i-get-2nd-and-third-column-in-tab-delim-file-in-bash(for bash commands)
+#                                                                                                            #
+#              Enter all the andrew IDs of all the people who helped you in completing this project          #
+#                                               (One per line)                                               #
+# I was helped by TA and piazza posts
